@@ -1,0 +1,15 @@
+{
+  "name": "minh-tri-test-package",
+  "version": "1.0.1",
+  "description": "Test publishing a package",
+  "types": "./types/index.d.ts",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minh-tri"
+  ],
+  "author": "minh-tri",
+  "license": "ISC"
+}
